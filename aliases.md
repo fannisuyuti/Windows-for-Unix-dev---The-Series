@@ -1,6 +1,7 @@
 ## work around
 - Create directory for the aliases script (eg. c:\aliases)
-- Create files with the name as the aliases with extension .bat
+- Add that directory to Path environment
+- Create files inside that directory with the name as the aliases with extension .bat
 - Inside the file put the command to run when the alias get called
 
 eg. create file with name `take.bat`
